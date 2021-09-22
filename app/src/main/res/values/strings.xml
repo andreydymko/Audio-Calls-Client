@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SPO Audio Calls</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="start_new_call">Start new call</string>
+    <string name="join">Join</string>
+
+    <string name="login_should_be">Login should be at least %1$d characters long</string>
+    <string name="password_should_be">Password should be at least %1$d characters long</string>
+    <string name="this_field_cannot_be_blank">This field cannot be blank</string>
+    <string name="passwords_should_match">Passwords should match with each other</string>
+
+    <string name="lost_connection_to_the_server">Lost connection to the server</string>
+    <string name="not_connected_to_server">Not connected to the server</string>
+    <string name="you_are_not_logged_in">You are not logged in</string>
+    <string name="could_not_find_server">Could not find server</string>
+
+    <string name="notif_channel_name">Spo calls invitations</string>
+    <string name="notif_channel_description">Delivers notifications on incoming calls</string>
+
+    <string name="incoming_call">Incoming call</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+
+    <string name="quit_call">Quit call</string>
+</resources>
